@@ -19,6 +19,7 @@ The notes are uploaded as lecture files (currently in PDF format). Over time the
 ├── 5.pdf   # Development Workflows in Cursor
 ├── 6.pdf   # Learn & Document Code using Cursor AI
 └── 7.pdf   # My Tips & Tricks for Cursor AI
+└── 8.pdf   # Conclusion
 ```
 
 ---
@@ -34,6 +35,7 @@ The notes are uploaded as lecture files (currently in PDF format). Over time the
 | 5 | Development Workflows in Cursor | [5.pdf](./5.pdf) |
 | 6 | Learn & Document Code using Cursor AI | [6.pdf](./6.pdf) |
 | 7 | My Tips & Tricks for Cursor AI | [7.pdf](./7.pdf) |
+| 8 | Conclusion | [8.pdf](./8.pdf) |
 
 ---
 
