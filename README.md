@@ -27,13 +27,13 @@ The notes are uploaded as lecture files (currently in PDF format). Over time the
 
 | # | Lecture | Notes |
 |---|---------|-------|
-| 1 | Cursor for Beginners (AI Code Editor) \| Complete Beginners Guide | [1.pdf](./1.pdf) |
-| 2 | What is CURSOR? (AI-Powered Code Editor) \| Complete Course for Beginners | [2.pdf](./2.pdf) |
-| 3 | Install & Explore Cursor \| #2 | [3.pdf](./3.pdf) |
-| 4 | My First App Using Cursor \| #3 | [4.pdf](./4.pdf) |
-| 5 | Development Workflows in Cursor \| #4 | [5.pdf](./5.pdf) |
-| 6 | Learn & Document Code using Cursor AI \| #5 | [6.pdf](./6.pdf) |
-| 7 | My Tips & Tricks for Cursor AI \| #6 | [7.pdf](./7.pdf) |
+| 1 | Cursor for Beginners (AI Code Editor) | [1.pdf](./1.pdf) |
+| 2 | What is CURSOR? (AI-Powered Code Editor) | [2.pdf](./2.pdf) |
+| 3 | Install & Explore Cursor | [3.pdf](./3.pdf) |
+| 4 | My First App Using Cursor | [4.pdf](./4.pdf) |
+| 5 | Development Workflows in Cursor | [5.pdf](./5.pdf) |
+| 6 | Learn & Document Code using Cursor AI | [6.pdf](./6.pdf) |
+| 7 | My Tips & Tricks for Cursor AI | [7.pdf](./7.pdf) |
 
 ---
 
